@@ -1,0 +1,265 @@
+= ePrivacy-Verordnung (Proposal)
+Europäische Kommission <https://eur-lex.europa.eu/procedure/EN/2017_3>
+Stand 10.01.2017
+:toc: left
+:page-layout: false
+:docinfo:
+
+== Kapitel I - Allgemeine Abstimmungen
+
+=== Art. 1 - Gegenstand
+. Diese Verordnung legt Vorschriften zum Schutz von Grundrechten und Grundfreiheiten natürlicher und juristischer Personen bei der Bereitstellung und Nutzung elektronischer Kommunikationsdienste fest und regelt insbesondere die Rechte auf Achtung des Privatlebens und der Kommunikation und den Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten.
+
+. Diese Verordnung gewährleistet den freien Verkehr elektronischer Kommunikationsdaten und elektronischer Kommunikationsdienste in der Union, der aus Gründen der Achtung des Privatlebens und der Kommunikation natürlicher und juristischer Personen und des Schutzes natürlicher Personen bei der Verarbeitung personenbezogener Daten weder beschränkt noch untersagt werden darf.
+
+. Die Bestimmungen dieser Verordnung präzisieren und ergänzen die Verordnung (EU) 2016/679 durch die Festlegung besonderer Vorschriften für die in den Absätzen 1 und 2 genannten Zwecke.
+
+=== Art. 2 - Sachlicher Anwendungsbereich
+. Diese Verordnung gilt für die Verarbeitung elektronischer Kommunikationsdaten, die in Verbindung mit der Bereitstellung und Nutzung elektronischer Kommunikationsdienste erfolgt, und für Informationen in Bezug auf die Endeinrichtungen der Endnutzer.
+
+. Diese Verordnung gilt nicht für:
+.. Tätigkeiten, die nicht in den Anwendungsbereich des Unionsrechts fallen;
+.. Tätigkeiten der Mitgliedstaaten, die in den Anwendungsbereich von Titel V Kapitel 2 des Vertrags über die Europäische Union fallen;
+.. elektronische Kommunikationsdienste, die nicht öffentlich zugänglich sind;
+.. Tätigkeiten zuständiger Behörden zu Zwecken der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung, einschließlich des Schutzes vor und der Abwehr von Gefahren für die öffentliche Sicherheit.
+
+. Für die Verarbeitung elektronischer Kommunikationsdaten durch die Organe, Einrichtungen und sonstigen Stellen der Europäischen Union gilt die Verordnung (EU) 00/0000 [neue Verordnung zur Ersetzung der Verordnung 45/2001].
+
+. Die vorliegende Verordnung lässt die Anwendung der Richtlinie 2000/31/EGfootnote:[Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt („Richtlinie über den elektronischen Geschäftsverkehr“) (ABl.L 178 vom 17.7.2000, S. 1).] und insbesondere der Vorschriften zur Verantwortlichkeit der Anbieter reiner Vermittlungsdienste in den Artikeln 12 bis 15 dieser Richtlinie unberührt.
+
+. Die Bestimmungen der Richtlinie 2014/53/EU bleiben von dieser Verordnung unberührt.
+
+=== Art. 3 - Räumlicher Anwendungsbereich und Vertreter
+. Diese Verordnung gilt für:
+.. die Bereitstellung elektronischer Kommunikationsdienste für Endnutzer in der Union, unabhängig davon, ob vom Endnutzer eine Bezahlung verlangt wird;
+.. die Nutzung solcher Dienste;
+.. den Schutz von Informationen in Bezug auf die Endeinrichtungen der Endnutzer in der Union.
+
+. Ist der Betreiber eines elektronischen Kommunikationsdienstes nicht in der Union niedergelassen, so muss er schriftlich einen Vertreter in der Union benennen.
+
+. Der Vertreter muss in einem der Mitgliedstaaten niedergelassen sein, in denen sich die Endnutzer dieser elektronischen Kommunikationsdienste befinden.
+
+. Der Vertreter muss für die Zwecke der Gewährleistung der Einhaltung dieser Verordnung befugt sein, zusätzlich zu dem von ihm vertretenen Betreiber oder an dessen Stelle Fragen zu beantworten und Auskünfte zu erteilen, und zwar insbesondere gegenüber Aufsichtsbehörden und Endnutzern in Bezug auf alle Belange im Zusammenhang mit der Verarbeitung elektronischer Kommunikationsdaten.
+
+. Die Benennung eines Vertreters nach Absatz 2 erfolgt unbeschadet etwaiger rechtlicher Schritte gegen eine natürliche oder juristische Person, die elektronische Kommunikationsdaten in Verbindung mit der Bereitstellung elektronischer Kommunikationsdienste von außerhalb der Union für Endnutzer in der Union verarbeitet
+
+=== Art. 4 - Begriffsbestimmungen
+. Für die Zwecke dieser Verordnung gelten folgende Begriffsbestimmungen:
+.. die Begriffsbestimmungen der Verordnung (EU) 2016/679;
+.. die Begriffsbestimmungen für „elektronisches Kommunikationsnetz“, „elektronischer Kommunikationsdienst“, „interpersoneller Kommunikationsdienst“, „nummerngebundener interpersoneller Kommunikationsdienst“, „nummernunabhängiger interpersoneller Kommunikationsdienst“, „Endnutzer“ und „Anruf“ in Artikel 2 Nummern 1, 4, 5, 6, 7, 14 bzw. 21 der [Richtlinie über den europäischen Kodex für die elektronische Kommunikation];
+.. die Begriffsbestimmung für „Endeinrichtungen“ in Artikel 1 Nummer 1 der Richtlinie 2008/63/EG der Kommissionfootnote:[Richtlinie 2008/63/EG der Kommission vom 20. Juni 2008 über den Wettbewerb auf dem Markt für Telekommunikationsendeinrichtungen (ABl. L 162 vom 21.6.2008, S. 20).].
+
+. Für die Zwecke des Absatzes 1 Buchstabe b schließt die Begriffsbestimmung für „interpersoneller Kommunikationsdienst“ auch Dienste ein, die eine interpersonelle und interaktive Kommunikation lediglich als untrennbar mit einem anderen Dienst verbundene untergeordnete Nebenfunktion ermöglichen.
+
+. Für die Zwecke dieser Verordnung gelten zusätzlich folgende Begriffsbestimmungen:
+.. „elektronische Kommunikationsdaten“: elektronische Kommunikationsinhalte und elektronische Kommunikationsmetadaten;
+.. „elektronische Kommunikationsinhalte“: Inhalte, die mittels elektronischer Kommunikationsdienste übermittelt werden, z. B. Textnachrichten, Sprache, Videos, Bilder und Ton;
+.. „elektronische Kommunikationsmetadaten“: Daten, die in einem elektronischen Kommunikationsnetz zu Zwecken der Übermittlung, der Verbreitung oder des Austauschs elektronischer Kommunikationsinhalte verarbeitet werden; dazu zählen die zur Verfolgung und Identifizierung des Ausgangs- und Zielpunkts einer Kommunikation verwendeten Daten, die im Zusammenhang mit der Bereitstellung elektronischer Kommunikationsdienste erzeugten Daten über den Standort des Geräts sowie Datum, Uhrzeit, Dauer und Art der Kommunikation;
+.. „öffentlich zugängliches Verzeichnis“: ein Verzeichnis der Endnutzer elektronischer Kommunikationsdienste in gedruckter oder elektronischer Form, das veröffentlicht oder der Öffentlichkeit bzw. einem Teil der Öffentlichkeit zugänglich gemacht wird, auch mithilfe eines Verzeichnisauskunftsdienstes;
+.. „E-Mail“ (elektronische Post): jede über ein elektronisches Kommunikationsnetz verschickte elektronische Nachricht, die Informationen in Text-, Sprach-, Video-, Ton- oder Bildform enthält und die im Netz oder in zugehörigen Rechneranlagen oder in Endeinrichtungen ihres Empfängers gespeichert werden kann;
+.. „Direktwerbung“: jede Art der Werbung in schriftlicher oder mündlicher Form, die an einen oder mehrere bestimmte oder bestimmbare Endnutzer elektronischer Kommunikationsdienste gerichtet wird, auch mittels automatischer Anruf- und Kommunikationssysteme mit oder ohne menschliche(r) Beteiligung, mittels E-Mail, SMS-Nachrichten usw.;
+.. „persönliche Direktwerbeanrufe“: direkt persönlich und ohne Verwendung automatischer Anruf- und Kommunikationssysteme ausgeführte Anrufe;
+.. „automatische Anruf- und Kommunikationssysteme“: Systeme, die automatisch Anrufe zu einem oder mehreren Empfängern entsprechend den für das System gemachten Einstellungen aufbauen und Ton übertragen können, der keine live gesprochene Rede darstellt, einschließlich Anrufen unter Verwendung automatischer Anruf- und Kommunikationssysteme, die die angerufene Person mit einer einzelnen Person verbinden.
+
+== Kapitel II - Schutz der elektronischen Kommunikation natürlicher und juristischer Personen und der in ihren Endeinrichtungen gespeicherten Informationen
+
+=== Art. 5 - Vertraulichkeit elektronischer Kommunikationsdaten
+Elektronische Kommunikationsdaten sind vertraulich. Eingriffe in elektronische Kommunikationsdaten wie Mithören, Abhören, Speichern, Beobachten, Scannen oder andere Arten des Abfangens oder Überwachens oder Verarbeitens elektronischer Kommunikationsdaten durch andere Personen als die Endnutzer sind untersagt, sofern sie nicht durch diese Verordnung erlaubt werden.
+
+=== Art. 6 - Erlaubte Verarbeitung elektronischer Kommunikationsdaten
+. Betreiber elektronischer Kommunikationsnetze und -dienste dürfen elektronische Kommunikationsdaten verarbeiten, wenn
+.. dies zur Durchführung der Übermittlung der Kommunikation nötig ist, für die dazu erforderliche Dauer, oder
+.. dies zur Aufrechterhaltung oder Wiederherstellung der Sicherheit elektronischer Kommunikationsnetze und -dienste oder zur Erkennung von technischen Defekten und Fehlern bei der Übermittlung der elektronischen Kommunikation nötig ist, für die dazu erforderliche Dauer.
+
+. Betreiber elektronischer Kommunikationsdienste dürfen elektronische Kommunikationsmetadaten verarbeiten, wenn
+.. dies zur Einhaltung verbindlicher Dienstqualitätsanforderungen nach der [Richtlinie über den europäischen Kodex für die elektronische Kommunikation] oder der Verordnung (EU) 2015/2120footnote:[Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zur Änderung der Richtlinie 2002/22/EG über den Universaldienst und Nutzerrechte bei elektronischen Kommunikationsnetzen und -diensten sowie der Verordnung (EU) Nr. 531/2012 über das Roaming in öffentlichen Mobilfunknetzen in der Union (ABl. L 310 vom 26.11.2015, S. 1).] nötig ist, für die dazu erforderliche Dauer, oder
+.. dies zur Rechnungstellung, zur Berechnung von Zusammenschaltungszahlungen, zur Erkennung oder Beendigung betrügerischer oder missbräuchlicher Nutzungen elektronischer Kommunikationsdienste oder der diesbezüglichen Verträge nötig ist, oder
+.. der betreffende Endnutzer seine Einwilligung zur Verarbeitung seiner Kommunikationsmetadaten für einen oder mehrere bestimmte Zwecke gegeben hat, so auch für die Bereitstellung bestimmter Dienste für diese Endnutzer, sofern die betreffenden Zwecke durch eine Verarbeitung anonymisierter Informationen nicht erreicht werden können.
+
+. Betreiber elektronischer Kommunikationsdienste dürfen elektronische Kommunikationsinhalte nur verarbeiten:
+.. zum alleinigen Zweck der Bereitstellung eines bestimmten Dienstes für einen Endnutzer, wenn der bzw. die betreffenden Endnutzer ihre Einwilligung zur Verarbeitung ihrer elektronischen Kommunikationsinhalte gegeben haben und die Dienstleistung ohne Verarbeitung dieser Inhalte nicht erbracht werden kann, oder
+.. wenn alle betreffenden Endnutzer ihre Einwilligung zur Verarbeitung ihrer elektronischen Kommunikationsinhalte für einen oder mehrere bestimmte Zwecke gegeben haben, die durch eine Verarbeitung anonymisierter Informationen nicht erreicht werden können, und wenn der Betreiber hierzu die Aufsichtsbehörde konsultiert hat. Artikel 36 Absätze 2 und 3 der Verordnung (EU) 2016/679 findet auf die Konsultation der Aufsichtsbehörde Anwendung.
+
+=== Art. 7 - Speicherung und Löschung elektronischer Kommunikationsdaten
+. Unbeschadet des Artikels 6 Absatz 1 Buchstabe b und des Artikels 6 Absatz 3 Buchstaben a und b löscht der Betreiber des elektronischen Kommunikationsdienstes elektronische Kommunikationsinhalte oder anonymisiert diese Daten, sobald der bzw. die vorgesehenen Empfänger die elektronischen Kommunikationsinhalte erhalten haben. Diese Daten können von den Endnutzern oder von Dritten, die von den Endnutzern mit der Aufzeichnung, Speicherung oder anderweitigen Verarbeitung dieser Daten beauftragt werden, im Einklang mit der Verordnung (EU) 2016/679 aufgezeichnet oder gespeichert werden.
+
+. Unbeschadet des Artikels 6 Absatz 1 Buchstabe b und des Artikels 6 Absatz 2 Buchstaben a und c löscht der Betreiber des elektronischen Kommunikationsdienstes elektronische Kommunikationsmetadaten oder anonymisiert diese Daten, sobald sie für die Übermittlung einer Kommunikation nicht mehr benötigt werden.
+
+. Erfolgt die Verarbeitung elektronischer Kommunikationsmetadaten zu Abrechnungszwecken im Einklang mit Artikel 6 Absatz 2 Buchstabe b, so dürfen die betreffenden Metadaten bis zum Ablauf der Frist aufbewahrt werden, innerhalb deren nach nationalem Recht die Rechnung rechtmäßig angefochten oder der Anspruch auf Zahlung geltend gemacht werden kann.
+
+=== Art. 8 - Schutz der in Endeinrichtungen der Endnutzer gespeicherten oder sich auf diese beziehenden Informationen
+. Jede vom betreffenden Endnutzer nicht selbst vorgenommene Nutzung der Verarbeitungs- und Speicherfunktionen von Endeinrichtungen und jede Erhebung von Informationen aus Endeinrichtungen der Endnutzer, auch über deren Software und Hardware, ist untersagt, außer sie erfolgt aus folgenden Gründen:
+.. sie ist für den alleinigen Zweck der Durchführung eines elektronischen Kommunikationsvorgangs über ein elektronisches Kommunikationsnetz nötig oder
+.. der Endnutzer hat seine Einwilligung gegeben oder
+.. sie ist für die Bereitstellung eines vom Endnutzer gewünschten Dienstes der Informationsgesellschaft nötig oder
+.. sie ist für die Messung des Webpublikums nötig, sofern der Betreiber des vom Endnutzer gewünschten Dienstes der Informationsgesellschaft diese Messung durchführt.
+
+. Die Erhebung von Informationen, die von Endeinrichtungen ausgesendet werden, um sich mit anderen Geräten oder mit Netzanlagen verbinden zu können, ist untersagt, außer
+.. sie erfolgt ausschließlich zum Zwecke der Herstellung einer Verbindung und für die dazu erforderliche Dauer oder
+.. es wird in hervorgehobener Weise ein deutlicher Hinweis angezeigt, der zumindest Auskunft gibt über die Modalitäten der Erhebung, ihren Zweck, die dafür verantwortliche Person und die anderen nach Artikel 13 der Verordnung (EU) 2016/679 verlangten Informationen, soweit personenbezogene Daten erfasst werden, sowie darüber, was der Endnutzer der Endeinrichtung tun kann, um die Erhebung zu beenden oder auf ein Minimum zu beschränken.
+Voraussetzung für die Erhebung solcher Informationen ist die Anwendung geeigneter technischer und organisatorischer Maßnahmen, die ein dem Risiko angemessenes Schutzniveau nach Artikel 32 der Verordnung (EU) 2016/679 gewährleisten.
+
+. Die nach Absatz 2 Buchstabe b zu gebenden Informationen können in Kombination mit standardisierten Bildsymbolen bereitgestellt werden, um in leicht wahrnehmbarer, verständlicher und klar nachvollziehbarer Form einen aussagekräftigen Überblick über die Erhebung zu vermitteln.
+
+. Der Kommission wird die Befugnis übertragen, nach Artikel 27 delegierte Rechtsakte zur Bestimmung der Informationen, die durch standardisierte Bildsymbole darzustellen sind, und der Verfahren für die Bereitstellung standardisierter Bildsymbole zu erlassen
+
+=== Art. 9 - Einwilligung
+. Für die Einwilligung gelten die Begriffsbestimmung und die Voraussetzungen, die in Artikel 4 Nummer 11 und Artikel 7 der Verordnung (EU) 2016/679 festgelegt sind.
+
+. Unbeschadet des Absatzes 1 kann die Einwilligung für die Zwecke des Artikels 8 Absatz 1 Buchstabe b – soweit dies technisch möglich und machbar ist – in den passenden technischen Einstellungen einer Software, die den Zugang zum Internet ermöglicht, gegeben werden.
+
+. Endnutzern, die ihre Einwilligung zur Verarbeitung elektronischer Kommunikationsdaten nach Artikel 6 Absatz 2 Buchstabe c und Artikel 6 Absatz 3 Buchstaben a und b gegeben haben, wird nach Artikel 7 Absatz 3 der Verordnung (EU) 2016/679 die Möglichkeit eingeräumt, ihre Einwilligung jederzeit zu widerrufen; sie werden in regelmäßigen Abständen von sechs Monaten an diese Möglichkeit erinnert, solange die Verarbeitung andauert.
+
+=== Art. 10 - Bereitzustellende Informationen und Einstellungsmöglichkeiten zur Privatsphäre
+. In Verkehr gebrachte Software, die eine elektronische Kommunikation erlaubt, darunter auch das Abrufen und Darstellen von Informationen aus dem Internet, muss die Möglichkeit bieten zu verhindern, dass Dritte Informationen in der Endeinrichtung eines Endnutzers speichern oder bereits in der Endeinrichtung gespeicherte Informationen verarbeiten.
+
+. Bei der Installation muss die Software den Endnutzer über die Einstellungsmöglichkeiten zur Privatsphäre informieren und zur Fortsetzung der Installation vom Endnutzer die Einwilligung zu einer Einstellung verlangen.
+
+. Bei Software, die am 25. Mai 2018 bereits installiert ist, müssen die Anforderungen der Absätze 1 und 2 zum Zeitpunkt der ersten Aktualisierung der Software, jedoch spätestens ab dem 25. August 2018 erfüllt werden.
+
+=== Art. 11 - Beschränkungen
+. Die Union oder die Mitgliedstaaten können im Wege von Gesetzgebungsmaßnahmen den Umfang der in den Artikeln 5 bis 8 festgelegten Pflichten und Rechte beschränken, sofern eine solche Beschränkung den Wesensgehalt der Grundrechte und Grundfreiheiten achtet und in einer demokratischen Gesellschaft eine notwendige, geeignete und verhältnismäßige Maßnahme darstellt, um ein oder mehrere der in Artikel 23 Absatz 1 Buchstaben a bis e der Verordnung (EU) 2016/679 genannten allgemeinen öffentlichen Interessen zu wahren oder Überwachungs-, Kontroll- oder Regulierungsaufgaben, die mit der Ausübung öffentlicher Gewalt verbunden sind, wahrzunehmen.
+
+. Die Betreiber elektronischer Kommunikationsdienste richten auf der Grundlage einer nach Absatz 1 erlassenen Gesetzgebungsmaßnahme interne Verfahren zur Beantwortung von Anfragen auf Zugang zu elektronischen Kommunikationsdaten von Endnutzern ein. Sie stellen der zuständigen Aufsichtsbehörde auf Anfrage Informationen über diese Verfahren, die Zahl der eingegangenen Anfragen, die vorgebrachten rechtlichen Begründungen und ihre Antworten zur Verfügung.
+
+== Kapitel III - Rechte natürlicher und juristischer Personen in Bezug auf die Kontrolle über ihre elektronische Kommunikation
+
+=== Art. 12 - Anzeige der Rufnummer des Anrufers und des Angerufenen und deren Unterdrückung
+. Wird die Anzeige der Rufnummer des Anrufers und des Angerufenen im Einklang mit Artikel [107] der [Richtlinie über den europäischen Kodex für die elektronische Kommunikation] angeboten, stellen die Betreiber öffentlich zugänglicher nummerngebundener interpersoneller Kommunikationsdienste Folgendes bereit:
+.. für den anrufenden Endnutzer die Möglichkeit, die Anzeige seiner Rufnummer für einen einzelnen Anruf, für eine bestimmte Verbindung oder dauerhaft zu verhindern;
+.. für den angerufenen Endnutzer die Möglichkeit, die Rufnummernanzeige für eingehende Anrufe zu verhindern;
+.. für den angerufenen Endnutzer die Möglichkeit, eingehende Anrufe, bei denen die Rufnummernanzeige durch den anrufenden Endnutzer verhindert wurde, abzuweisen;
+.. für den angerufenen Endnutzer die Möglichkeit, die Anzeige seiner Rufnummer beim anrufenden Endnutzer zu verhindern.
+
+. Die in Absatz 1 Buchstaben a, b, c und d genannten Möglichkeiten werden Endnutzern auf einfache Weise und kostenlos bereitgestellt.
+
+. Absatz 1 Buchstabe a gilt auch für aus der Union abgehende Anrufe in Drittländer. Absatz 1 Buchstaben b, c und d gelten auch für aus Drittländern eingehende Anrufe.
+
+. Wird die Anzeige der Rufnummer des Anrufers oder des Angerufenen angeboten, geben die Betreiber öffentlich zugänglicher nummerngebundener interpersoneller Kommunikationsdienste der Öffentlichkeit Informationen über die in Absatz 1 Buchstaben a, b, c und d genannten Möglichkeiten.
+
+=== Art. 13 - Ausnahmen für die Anzeige der Rufnummer des Anrufers und des Angerufenen und deren Unterdrückung
+. Ungeachtet dessen, ob der anrufende Endnutzer die Anzeige seiner Rufnummer verhindert hat, übergehen die Betreiber öffentlich zugänglicher nummerngebundener interpersoneller Kommunikationsdienste bei Anrufen bei Notdiensten die Unterdrückung der Rufnummernanzeige und eine verweigerte oder fehlende Einwilligung eines Endnutzers in die Verarbeitung von Metadaten anschlussbezogen für Einrichtungen, die Notrufe bearbeiten, einschließlich der Notrufabfragestellen, zum Zwecke der Beantwortung dieser Anrufe.
+
+. Die Mitgliedstaaten legen spezifischere Bestimmungen in Bezug auf die Einrichtung von Verfahren und die Umstände fest, unter denen Betreiber öffentlich zugänglicher nummerngebundener interpersoneller Kommunikationsdienste die Unterdrückung der Anzeige der Rufnummer des Anrufers vorrübergehend aufheben sollen, wenn Endnutzer beantragen, dass böswillige oder belästigende Anrufe zurückverfolgt werden.
+
+=== Art. 14 - Sperrung eingehender Anruf
+Die Betreiber öffentlich zugänglicher nummerngebundener interpersoneller Kommunikationsdienste treffen Maßnahmen, die dem Stand der Technik entsprechen, um den Erhalt unerwünschter Anrufe durch Endnutzer zu beschränken, und stellen den angerufenen Endnutzern außerdem folgende Möglichkeiten kostenlos zur Verfügung:
+.. Sperrung eingehender Anrufe von bestimmten Rufnummern oder von anonymen Quellen;
+.. Abstellung einer von einem Dritten veranlassten automatischen Anrufweiterschaltung zur Endeinrichtung des Endnutzers.
+
+=== Art. 15 - Öffentlich zugängliche Verzeichnisse
+. Die Betreiber öffentlich zugänglicher Verzeichnisse holen die Einwilligung der Endnutzer, die natürliche Personen sind, in die Aufnahme ihrer personenbezogenen Daten in das Verzeichnis und folglich die Einwilligung dieser Endnutzer in die Aufnahme von Daten nach Kategorien personenbezogener Daten ein, soweit diese Daten für den vom Anbieter des Verzeichnisses angegebenen Zweck relevant sind. Die Betreiber geben Endnutzern, die natürliche Personen sind, die Möglichkeit, die Daten zu überprüfen, zu berichtigen und zu löschen.
+
+. Die Betreiber öffentlich zugänglicher Verzeichnisse informieren Endnutzer, die natürliche Personen sind und deren personenbezogene Daten in das Verzeichnis aufgenommen worden sind, über die verfügbaren Suchfunktionen des Verzeichnisses und holen die Einwilligung der Endnutzer ein, bevor sie diese Suchfunktionen in Bezug auf deren Daten aktivieren.
+
+. Die Betreiber öffentlich zugänglicher Verzeichnisse räumen Endnutzern, die juristische Personen sind, die Möglichkeit ein, der Aufnahme von auf sie bezogenen Daten in das Verzeichnis zu widersprechen. Die Betreiber geben solchen Endnutzern, die juristische Personen sind, die Möglichkeit, die Daten zu überprüfen, zu berichtigen und zu löschen.
+
+. Die Möglichkeit der Endnutzer, nicht in ein öffentlich zugängliches Verzeichnis aufgenommen zu werden und alle Daten, die sich auf sie beziehen, zu überprüfen, zu berichtigen und zu löschen, wird kostenlos zur Verfügung gestellt.
+
+=== Art. 16 - Unerbetene Kommunikation
+. Natürliche oder juristische Personen können Direktwerbung über elektronische Kommunikationsdienste an Endnutzer richten, die natürliche Personen sind und hierzu ihre Einwilligung gegeben haben.
+
+. Hat eine natürliche oder juristische Person von ihren Kunden im Zusammenhang mit dem Verkauf eines Produkts oder einer Dienstleistung im Einklang mit der Verordnung (EU) 2016/679 deren elektronische Kontaktangaben für E-Mail erhalten, darf sie diese zur Direktwerbung für eigene ähnliche Produkte oder Dienstleistungen nur dann verwenden, wenn die Kunden klar und deutlich die Möglichkeit haben, einer solchen Nutzung kostenlos und auf einfache Weise zu widersprechen. Das Widerspruchsrecht wird bei Erlangung der Angaben und bei jedem Versand einer Nachricht eingeräumt.
+
+. Unbeschadet der Absätze 1 und 2 müssen natürliche oder juristische Personen, die Direktwerbeanrufe mittels elektronischer Kommunikationsdienste tätigen,
+.. eine Rufnummer angeben, unter der sie erreichbar sind, oder
+.. einen besonderen Kode/eine Vorwahl angeben, der/die kenntlich macht, dass es sich um einen Werbeanruf handelt.
+
+. Ungeachtet des Absatzes 1 können Mitgliedstaaten durch Rechtsvorschriften vorsehen, dass die Tätigung persönlicher Direktwerbeanrufe an Endnutzer, die natürliche Personen sind, nur bei Endnutzern erlaubt ist, die natürliche Personen sind und dem Erhalt solcher Kommunikation nicht widersprochen haben.
+
+. Die Mitgliedstaaten stellen im Rahmen des Unionsrechts und des geltenden nationalen Rechts sicher, dass die berechtigten Interessen von Endnutzern, die juristische Personen sind, in Bezug auf unerbetene Kommunikation, die in der in Absatz 1 genannten Weise übermittelt wird, ausreichend geschützt werden.
+
+. Natürliche oder juristische Personen, die Direktwerbung mittels elektronischer Kommunikationsdienste übermitteln, informieren die Endnutzer über den Werbecharakter der Nachricht und die Identität der juristischen oder natürlichen Person, in deren Namen die Nachricht übermittelt wird, und stellen die nötigen Informationen bereit, damit die Empfänger in einfacher Weise ihr Recht ausüben können, die Einwilligung in den weiteren Empfang von Werbenachrichten zu widerrufen.
+
+. Der Kommission wird die Befugnis übertragen, nach Artikel 26 Absatz 2 Durchführungsmaßnahmen zu erlassen, in denen der Kode/die Vorwahl zur Kennzeichnung von Werbeanrufen nach Absatz 3 Buchstabe b festgelegt wird.
+
+=== Art. 17 - Information über erkannte Sicherheitsrisiken
+Besteht ein besonderes Risiko, dass die Sicherheit von Netzen und elektronischen Kommunikationsdiensten beeinträchtigt werden könnte, informiert der Betreiber eines elektronischen Kommunikationsdienstes die Endnutzer über dieses Risiko und – wenn das Risiko außerhalb des Anwendungsbereichs der vom Diensteanbieter zu treffenden Maßnahmen liegt – über mögliche Abhilfen, einschließlich voraussichtlich entstehender Kosten.
+
+== Kapitel IV - Unabhängige Aufsichtsbehörden und Durchsetzung
+
+=== Art. 18 - Unabhängige Aufsichtsbehörden
+. Die für die Überwachung der Anwendung der Verordnung (EU) 2016/679 zuständigen unabhängigen Aufsichtsbehörden sind auch für die Überwachung der Anwendung der vorliegenden Verordnung zuständig. Die Kapitel VI und VII der Verordnung (EU) 2016/679 finden sinngemäß Anwendung. Die Aufgaben und Befugnisse der Aufsichtsbehörden werden in Bezug auf die Endnutzer wahrgenommen.
+
+. Die in Absatz 1 genannten Aufsichtsbehörden arbeiten mit den nach der [Richtlinie über den europäischen Kodex für die elektronische Kommunikation] geschaffenen nationalen Regulierungsbehörden zusammen, wenn dies zweckmäßig ist.
+
+=== Art. 19 - Europäischer Datenschutzausschuss
+Der durch Artikel 68 der Verordnung (EU) 2016/679 eingesetzte Europäische Datenschutzausschuss ist für die Gewährleistung der einheitlichen Anwendung dieser Verordnung zuständig. Dazu nimmt der Europäische Datenschutzausschuss die in Artikel 70 der Verordnung (EU) 2016/679 festgelegten Aufgaben wahr. Außerdem hat der Ausschuss folgende Aufgaben:
+.. Beratung der Kommission bezüglich etwaiger Vorschläge zur Änderung dieser Verordnung;
+.. Prüfung – von sich aus, auf Antrag eines seiner Mitglieder oder auf Ersuchen der Kommission – von die Anwendung dieser Verordnung betreffenden Fragen und Bereitstellung von Leitlinien, Empfehlungen und bewährten Verfahren zwecks Sicherstellung einer einheitlichen Anwendung dieser Verordnung.
+
+=== Art. 20 - Zusammenarbeit und Kohärenzverfahren
+Jede Aufsichtsbehörde leistet einen Beitrag zur einheitlichen Anwendung dieser Verordnung in der gesamten Union. Zu diesem Zweck arbeiten die Aufsichtsbehörden untereinander sowie mit der Kommission nach Kapitel VII der Verordnung (EU) 2016/679 in den unter diese Verordnung fallenden Angelegenheiten zusammen.
+
+== Kapitel V - Rechtsbehelfe, Haftung und Sanktionen
+
+=== Art. 21 - Rechtsbehelfe
+. Jeder Endnutzer elektronischer Kommunikationsdienste hat unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe dieselben Rechte, die in den Artikeln 77, 78 und 79 der Verordnung (EU) 2016/679 vorgesehen sind.
+
+. Jede natürliche oder juristische Person, die kein Endnutzer ist, die durch Verstöße gegen die vorliegende Verordnung beeinträchtigt wird und ein berechtigtes Interesse an der Einstellung oder dem Verbot solcher Verstöße hat, einschließlich der Betreiber elektronischer Kommunikationsdienste, die ihre berechtigten Geschäftsinteressen schützen wollen, hat das Recht, gegen solche Verstöße gerichtlich vorzugehen.
+
+=== Art. 22 - Haftung und Recht auf Schadenersatz
+Jeder Endnutzer elektronischer Kommunikationsdienste, dem wegen eines Verstoßes gegen diese Verordnung ein materieller oder immaterieller Schaden entstanden ist, hat Anspruch auf Schadenersatz gegen den Rechtsverletzer, es sei denn der Rechtsverletzer weist im Einklang mit Artikel 82 der Verordnung (EU) 2016/679 nach, dass er in keinerlei Hinsicht für den Umstand, durch den der Schaden eingetreten ist, verantwortlich ist.
+
+=== Art. 23 - Allgemeine Voraussetzungen für die Verhängung von Geldbußen
+. Für die Zwecke dieses Artikels findet Kapitel VII der Verordnung (EU) 2016/679 auf Verstöße gegen die vorliegende Verordnung Anwendung.
+
+. Bei Verstößen gegen die folgenden Bestimmungen der vorliegenden Verordnung werden im Einklang mit Absatz 1 Geldbußen von bis zu 10 000 000 EUR oder im Fall eines Unternehmens von bis zu 2 % seines gesamten weltweit erzielten Jahresumsatzes des vorangegangenen Geschäftsjahrs verhängt, je nachdem, welcher der Beträge höher ist:
+.. die Verpflichtungen einer juristischen oder natürlichen Person, die elektronische Kommunikationsdaten nach Artikel 8 verarbeitet;
+.. die Verpflichtungen des Anbieters der Software, die eine elektronische Kommunikation nach Artikel 10 ermöglicht;
+.. die Verpflichtungen des Betreibers öffentlich zugänglicher Verzeichnisse nach Artikel 15;
+.. die Verpflichtungen einer juristischen oder natürlichen Person, die elektronische Kommunikationsdienste nach Artikel 16 nutzt.
+
+. Bei Verstößen gegen den Grundsatz der Vertraulichkeit der Kommunikation, die erlaubte Verarbeitung elektronischer Kommunikationsdaten und Löschungsfristen nach den Artikeln 5, 6 und 7 werden im Einklang mit Absatz 1 des vorliegenden Artikels Geldbußen von bis zu 20 000 000 EUR oder im Fall eines Unternehmens von bis zu 4 % seines gesamten weltweit erzielten Jahresumsatzes des vorangegangenen Geschäftsjahrs verhängt, je nachdem, welcher der Beträge höher ist.
+
+. Die Mitgliedstaaten legen Vorschriften über Sanktionen für die in den Artikeln 12, 13, 14 und 17 genannten Verstöße fest.
+
+. Bei Nichtbefolgung einer Anweisung der Aufsichtsbehörde nach Artikel 18 werden Geldbußen von bis zu 20 000 000 EUR oder im Fall eines Unternehmens von bis zu 4 % seines gesamten weltweit erzielten Jahresumsatzes des vorangegangenen Geschäftsjahrs verhängt, je nachdem, welcher der Beträge höher ist.
+
+. Unbeschadet der Abhilfebefugnisse der Aufsichtsbehörden nach Artikel 18 kann jeder Mitgliedstaat Vorschriften dafür festlegen, ob und in welchem Umfang gegen Behörden und öffentliche Stellen, die in dem betreffenden Mitgliedstaat niedergelassen sind, Geldbußen verhängt werden können.
+
+. Die Ausübung der eigenen Befugnisse durch eine Aufsichtsbehörde nach diesem Artikel muss angemessenen Verfahrensgarantien gemäß dem Unionsrecht und dem Recht der Mitgliedstaaten, einschließlich wirksamer gerichtlicher Rechtsbehelfe und ordnungsgemäßer Verfahren, unterliegen.
+
+. Sieht die Rechtsordnung eines Mitgliedstaats keine Geldbußen vor, kann dieser Artikel so angewandt werden, dass die Geldbuße von der zuständigen Aufsichtsbehörde in die Wege geleitet und von den zuständigen nationalen Gerichten verhängt wird, wobei sicherzustellen ist, dass diese Rechtsbehelfe wirksam sind und die gleiche Wirkung wie von Aufsichtsbehörden verhängte Geldbußen haben. In jeden Fall müssen die verhängten Geldbußen wirksam, verhältnismäßig und abschreckend sein. Die betreffenden Mitgliedstaaten teilen der Kommission bis zum [xxx] die Rechtsvorschriften, die sie aufgrund dieses Absatzes erlassen, sowie unverzüglich alle späteren Änderungsgesetze oder Änderungen dieser Vorschriften mit.
+
+=== Art. 24 - Sanktionen
+. Die Mitgliedstaaten legen die Vorschriften über andere Sanktionen für Verstöße gegen diese Verordnung – insbesondere für Verstöße, die keiner Geldbuße nach Artikel 23 unterliegen – fest und treffen alle zu deren Anwendung erforderlichen Maßnahmen. Diese Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein.
+
+. Jeder Mitgliedstaat teilt der Kommission spätestens 18 Monate nach dem in Artikel 29 Absatz 2 festgelegten Termin die Rechtsvorschriften, die er nach Absatz 1 erlässt, sowie unverzüglich alle späteren Änderungen dieser Vorschriften mit.
+
+== Kapitel VI - Delegierte Rechtsakte und Durchführungsrechtsakte
+
+=== Art. 25 - Ausübung der Befugnisübertragung
+. Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in diesem Artikel festgelegten Bedingungen übertragen.
+
+. Die Befugnis zum Erlass delegierter Rechtsakte nach Artikel 8 Absatz 4 wird der Kommission auf unbestimmte Zeit ab dem [Tag des Inkrafttretens dieser Verordnung] übertragen.
+
+. Die Befugnisübertragung nach Artikel 8 Absatz 4 kann vom Europäischen Parlament oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner Veröffentlichung im Amtsblatt der Europäischen Union oder zu einem im Beschluss über den Widerruf angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht berührt.
+
+. Vor dem Erlass eines delegierten Rechtsakts konsultiert die Kommission die von den einzelnen Mitgliedstaaten benannten Sachverständigen im Einklang mit den in der Interinstitutionellen Vereinbarung über bessere Rechtsetzung vom 13. April 2016 niedergelegten Grundsätzen.
+
+. Sobald die Kommission einen delegierten Rechtsakt erlässt, übermittelt sie ihn gleichzeitig dem Europäischen Parlament und dem Rat.
+
+. Ein delegierter Rechtsakt, der nach Artikel 8 Absatz 4 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von zwei Monaten nach Übermittlung dieses Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um zwei Monate verlängert.
+
+=== Art. 26 - Ausschuss
+. Die Kommission wird von dem durch Artikel 110 der [Richtlinie über den europäischen Kodex für die elektronische Kommunikation] eingesetzten Kommunikationsausschuss unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011footnote:[Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung der Durchführungsbefugnisse durch die Kommission kontrollieren (ABl. L 55 vom 28.2.2011, S. 13).].
+
+. Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) Nr. 182/2011.
+
+== Kapitel VII - Schlussbestimmungen
+
+=== Art. 27 - Aufhebung
+. Die Richtlinie 2002/58/EG wird mit Wirkung vom 25. Mai 2018 aufgehoben.
+
+. Bezugnahmen auf die aufgehobene Richtlinie gelten als Bezugnahmen auf die vorliegende Verordnung
+
+=== Art. 28 - Überwachung und Bewertung
+Die Kommission stellt spätestens zum 1. Januar 2018 ein detailliertes Programm für die Überwachung der Wirksamkeit dieser Verordnung auf.
+
+Spätestens drei Jahre nach dem Geltungsbeginn dieser Verordnung und danach alle drei Jahre führt die Kommission eine Bewertung dieser Verordnung durch und legt die wichtigsten Erkenntnisse daraus dem Europäischen Parlament, dem Rat und dem Europäischen Wirtschafts- und Sozialausschuss vor. In Anbetracht rechtlicher, technischer oder wirtschaftlicher Entwicklungen dient die Bewertung gegebenenfalls als Grundlage für einen Vorschlag zur Änderung oder Aufhebung dieser Verordnung.
+
+=== Art. 29 - Inkrafttreten und Anwendung
+. Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
+
+. Sie gilt ab dem 25. Mai 2018.

@@ -1,0 +1,25 @@
+<style>
+    ol {
+        margin: 0;
+        counter-reset: section;
+    }
+
+    ol > li {
+        display: table-row;
+        list-style-type: none;
+        counter-increment: section;
+    }
+
+    ol.arabic > li:before, ol.loweralpha > li:before {
+        display: table-cell;
+        padding-right: 10px;
+    }
+
+    ol.arabic > li:before {
+        content: "(" counter(section) ")";
+    }
+
+    ol.loweralpha > li:before {
+        content: counter(section, lower-alpha) ")";
+    }
+</style>
