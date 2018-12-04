@@ -1,0 +1,9 @@
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - index-docinfo.html
+asciidoc: {}
+asciidoctor:
+  base_dir: :docdir
